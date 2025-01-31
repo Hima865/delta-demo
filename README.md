@@ -2,4 +2,4 @@
 This is demo for git git hub.
 
 # Teacher 
-sharadha khapra
+sharadha khapra is
